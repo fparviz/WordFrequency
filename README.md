@@ -1,26 +1,26 @@
-Word Frequency
-===============
+Word Frequency Calculator
+=========================
 
 
 Find the most commonly used words in a piece of writing.
 
-How to Run:
+#How to Run:
 
-1. ./WordFreq.py <input.txt>
+./WordFreq.py <input.txt>
 e.g ./WordFreq.py lightinaugust.txt
 
 Results:
-Total Length of the Novel: 81940
-Total number of words used in the Novel: 11029
-time;382
-house;298
-byron;292
-never;285
-thought;278
-woman;264
-...
+1. Total Length of the Novel: 81940
+2. Total number of words used in the Novel: 11029
+	time;382
+	house;298
+	byron;292
+	never;285
+	thought;278
+	woman;264
+	...
 
-The script also calculates the 100 seldom most words used in the text:
+#The script also calculates the 100 seldom most words used in the text:
 
 raining
 dollar
