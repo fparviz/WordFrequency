@@ -9,7 +9,7 @@ Find the most commonly used words in a piece of writing.
 ./WordFreq.py <input.txt>
 e.g ./WordFreq.py lightinaugust.txt
 
-##The script outputs the 200 most frequently used words in the text and the number of times they are used:
+##The script outputs the 200 most frequently used words:
 
 Total Length of the Novel: 81940<br />
 Total number of words used in the Novel: 11029<br />
